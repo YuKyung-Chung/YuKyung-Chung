@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yukyung's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <p align="center">
-👩‍💻 <b>정유경(Yukyung-Chung)</b><br>
+🥰 <b>정유경(Yukyung-Chung)</b><br>
 🖥️ <b>Backend developer</b> <br>
 <br/>
 📧 E-mail 📧<br/>

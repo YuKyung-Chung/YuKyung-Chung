@@ -50,7 +50,8 @@
 <div align=center>
 
 ![YuKyung-Chung's github stats](https://github-readme-stats.vercel.app/api?username=YuKyung-Chung&show_icons=true)
-
+### 📊 Most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuKyung-Chung&layout=compact&theme=onedark) 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&section=footer)
 

@@ -40,7 +40,6 @@
  
 ![YuKyung-Chung's github stats](https://github-readme-stats.vercel.app/api?username=YuKyung-Chung&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuKyung-Chung&layout=compact&theme=onedark) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyk0129)](https://solved.ac/jyk0129/)
     
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&section=footer)
 

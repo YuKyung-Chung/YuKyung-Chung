@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yukyung's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+
 
 <p align="center">
 🥰 <b>정유경(Yukyung-Chung)</b> <br>
@@ -41,7 +41,6 @@
 ![YuKyung-Chung's github stats](https://github-readme-stats.vercel.app/api?username=YuKyung-Chung&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuKyung-Chung&layout=compact&theme=onedark) 
     
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&section=footer)
 
 <!--
 **YuKyung-Chung/YuKyung-Chung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

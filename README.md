@@ -1,6 +1,7 @@
 
 
 <p align="center">
+    
 🥰 <b>정유경(Yukyung-Chung)</b> <br>
 🌱 <b>I’m currently learning backend</b> <br>
     <br>

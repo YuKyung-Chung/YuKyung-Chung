@@ -15,7 +15,6 @@
 </p>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/C sharp-239120?style=for-the-badge&logo=C sharp&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
